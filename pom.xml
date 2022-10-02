@@ -31,8 +31,8 @@
 			<groupId>org.glassfish.jersey.containers</groupId>
 			<artifactId>jersey-container-grizzly2-http</artifactId>
 		</dependency>
-		
-		
+
+
 		<!-- Jersey, por padrão, utiliza HK2 (Hundred-Kilobyte Kernel) para injecção de dependência. 
 		E o HK2 é uma implementação do JSR-330(Injecção de dependência para Java). -->
 		<dependency>
@@ -44,6 +44,14 @@
 		<dependency>
 			<groupId>org.glassfish.jersey.media</groupId>
 			<artifactId>jersey-media-json-binding</artifactId>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client -->
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+			<version>3.0.8</version>
 		</dependency>
 
 
