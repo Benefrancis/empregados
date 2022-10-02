@@ -19,6 +19,7 @@ public class EmpregadoDAO extends Repository {
 	public static List<Empregado> findAll() {
 
 		log.info("Finding all Empregados.");
+		
 		List<Empregado> retorno = new ArrayList<>();
 		String sql = "SELECT * from DDD_EMPREGADO";
 		log.info(sql);

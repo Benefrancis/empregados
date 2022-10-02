@@ -62,7 +62,7 @@ public final class ConnectionFactory {
 				instance = null;
 			}
 		} catch (SQLException e1) {
-			System.out.println("Conexão fechada");
+			System.out.println("Conexao fechada");
 		}
 
 		Properties prop = new Properties();
