@@ -1,15 +1,9 @@
 # Vídeo Tutorial
 
-
-<<<<<<< HEAD
-	<a href="https://youtu.be/34m9sxzYQys" target="_blank">
-	  <img src="./documentos/imagens/capa.png">
-	</a>
-=======
 <a href="https://agua.mpf.mp.br" target="_blank">
   <img src="./documentos/imagens/capa.png">
 </a>
->>>>>>> 389a71080fe02d3a02e673a5669caacc0625bd71
+
 
 
 # Aplicação JAVA API REST
