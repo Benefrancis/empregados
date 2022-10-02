@@ -2,11 +2,11 @@
 
 
 	<a href="https://agua.mpf.mp.br" target="_blank">
-	  <img src="documentos/imagens/video.png">
+	  <img src="./documentos/imagens/capa.png">
 	</a>
 
 
-# Aplicação Java publicada como API REST
+# Aplicação JAVA API REST
 
 Uma das alternativas para o Spring Boot, a JAX-RS API é uma especificação que define interfaces e anotações fornecidas pelo Java EE, que podem ser utilizadas na criação de uma API RESTful.
 
