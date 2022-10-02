@@ -8,7 +8,7 @@
 
 # Aplicação JAVA API REST
 
-Uma das alternativas para o Spring Boot, a JAX-RS API é uma especificação que define interfaces e anotações fornecidas pelo Java EE, que podem ser utilizadas na criação de uma API RESTful.
+Uma das alternativas para o Spring Boot, a JAX-RS API é uma especificação que define interfaces e anotações fornecidas pelo Java EE, que podem ser utilizadas na criação de uma API RESTfull.
 
 Entre as bibliotecas existentes, a  implementação da JAX-RS API mais conhecida e utilizada é a Jersey.
 
