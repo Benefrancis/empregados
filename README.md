@@ -1,6 +1,6 @@
 # Vídeo Tutorial
 
-<a href="https://www.youtube.com/watch?v=34m9sxzYQys" target="_blank">
+<a href="https://youtu.be/HAlM22yhsjQ" target="_blank">
   <img src="./documentos/imagens/capa.png">
 </a>
 
